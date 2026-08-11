@@ -1,25 +1,108 @@
-<h1 align="center">Hi 👋, I'm Haris Ghafar</h1>
-<h3 align="center">Building AI Agents & RAG Systems | Python • LangChain • VectorDB • LLM Integration •APIs | n8n Automation | SE Student @ UET Lahore</h3>
+# Hi, I'm Haris Ghafar 👋
 
-- 🔭 I’m currently working on **youtube intelligence RAG chat**
+### Building AI Agents & RAG Systems | Software Engineering Student @ UET Lahore
 
-- 👯 I’m looking to collaborate on [RAG chatbot for UET Lahore](https://github.com/haris-ghafar/uet-chatbot)
+I'm a Software Engineering student focused on **AI Engineering**, building practical applications with **LLMs, RAG, AI agents, vector databases, and automation**.
 
-- 💬 Ask me about **Python, AI agents ,LLM, Chatbots, RAG system**
+I learn by building — turning concepts into real-world AI projects and continuously improving my engineering skills.
 
-- 📫 How to reach me **harisbinghafar@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harisghafar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harisghafar01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haris-ghafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haris-ghafar" height="30" width="40" /></a>
-<a href="https://fb.com/haris bin ghafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haris bin ghafar" height="30" width="40" /></a>
-<a href="https://instagram.com/haris.ghafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haris.ghafar" height="30" width="40" /></a>
-</p>
+## 🚀 What I'm Working On
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+- 🤖 **AI Agents & Agentic AI**
+- 🔎 **Retrieval-Augmented Generation (RAG)**
+- 🧠 **LLM-powered applications**
+- 🗄️ **Vector databases & semantic search**
+- ⚙️ **AI automation with n8n**
+- 🔗 **LLM API integration**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haris-ghafar&show_icons=true&locale=en&layout=compact" alt="haris-ghafar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haris-ghafar&" alt="haris-ghafar" /></p>
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI & LLM
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector_Databases-FF6F00?style=for-the-badge)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Tools & Automation
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+---
+
+## 💻 Featured Projects
+
+### 🎥 YouTube Intelligence RAG Chat
+
+An AI-powered YouTube Intelligence System that transforms video transcripts into an interactive knowledge base.
+
+**Features:**
+- YouTube transcript extraction
+- Transcript processing & chunking
+- Embedding generation
+- ChromaDB vector storage
+- RAG-based video Q&A
+- AI-powered video summarization
+- Video analysis
+- Conversational context
+
+🔗 **[View Repository](https://github.com/haris-ghafar/youtube-rag-intelligence)**
+
+---
+
+### 🎓 RAG Chatbot for UET Lahore
+
+An AI-powered RAG chatbot designed to answer UET Lahore admission-related questions using official university documents.
+
+**Features:**
+- Document-based question answering
+- Semantic search
+- Vector database retrieval
+- Source-grounded responses
+- Conversation context
+- Streamlit interface
+
+🔗 **[View Repository](https://github.com/haris-ghafar/uet-chatbot)**
+
+---
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haris-ghafar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haris-ghafar)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/HarisGhafar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harisbinghafar@gmail.com)
+
+---
+
+## 💡 Currently Learning
+
+```text
+AI Engineering
+     │
+     ├── LLM Applications
+     ├── RAG Systems
+     ├── Vector Databases
+     ├── LangChain & LCEL
+     ├── AI Agents
+     ├── AI Automation
+     └── Agentic Workflows
