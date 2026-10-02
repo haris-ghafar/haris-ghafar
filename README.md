@@ -97,6 +97,8 @@ An AI-powered YouTube Intelligence System that transforms video transcripts into
 
 ## 🤝 Connect With Me
 
+
+🌐 **Portfolio Website:** [View My Portfolio](https://haris-ghafar-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haris-ghafar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haris-ghafar)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/HarisGhafar)
